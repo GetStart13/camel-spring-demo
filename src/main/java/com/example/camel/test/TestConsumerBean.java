@@ -1,4 +1,4 @@
-package com.cubegalaxy.camel.test;
+package com.example.camel.test;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -8,10 +8,10 @@
         <version>2.3.2.RELEASE</version>
     </parent>
 
-    <groupId>com.cubegalaxy</groupId>
+    <groupId>com.example</groupId>
     <artifactId>camel-spring-demo</artifactId>
     <version>1.0.0</version>
-    <description>camel spring example</description>
+    <description>camel spring demo</description>
 
     <properties>
         <java.version>11</java.version>

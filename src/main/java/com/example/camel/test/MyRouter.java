@@ -1,9 +1,8 @@
-package com.cubegalaxy.camel.test;
+package com.example.camel.test;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 import org.apache.camel.builder.RouteBuilder;
-import org.springframework.stereotype.Component;
 
 //@Component
 class MyRouter extends RouteBuilder {

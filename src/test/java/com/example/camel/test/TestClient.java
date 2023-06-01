@@ -1,4 +1,4 @@
-package com.cubegalaxy.camel.test;
+package com.example.camel.test;
 
 import org.eclipse.paho.client.mqttv3.MqttClient;
 import org.eclipse.paho.client.mqttv3.MqttConnectOptions;
